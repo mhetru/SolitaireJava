@@ -1,0 +1,4 @@
+classes/*
+!classes/.gitkeep
+!classes/solitaire/images/Cartes256Tok.GIF
+!classes/solitaire/images/Dos256Tok.GIF
