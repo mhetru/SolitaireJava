@@ -45,7 +45,8 @@ java solitaire/Proggraph
 
 * To create the documentation :
 ```
-javadoc -version -author *.java -package util interf -d ../../docs
+cd sources
+javadoc -encoding ISO-8859-15 -version -author *.java -package solitaire solitaire.carte solitaire.interf solitaire.util -d ../docs
 ```
 
 * Browse the documentation :
