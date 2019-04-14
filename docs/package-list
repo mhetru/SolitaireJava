@@ -1,2 +1,5 @@
-interf
-util
+solitaire
+solitaire.carte
+solitaire.interf
+solitaire.tas
+solitaire.util
