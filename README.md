@@ -8,6 +8,7 @@ It was a project at my studies in university at 2002.
 Pre-requisite :
 - JDK (OpenJDK or Oracle JDK)
 
+---
 
 * Text version of the game :
 
@@ -28,6 +29,8 @@ Commands to play :
 - to move a card from draw to another heap : type P character followed the name with the target head, example : PC1
 - to move a card from a heap to another heap : type the name of the heap followed the target head, example : C1C8
 - to move a card from a heap to a stake : the the name of the heap followed the target stake, example : C2P1
+
+---
 
 * Graphic version of the game :
 
